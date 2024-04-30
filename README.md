@@ -24,6 +24,14 @@
 - [PowerSpinner](https://github.com/skydoves/PowerSpinner) - A lightweight dropdown popup spinner, fully customizable with an arrow and animations for Android.
 - [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar) - A lightweight Android material bottom navigation bar library.
 
+## Flow
+<table border="1">
+  <tr>
+    <td align="center"> 
+      <img width="50%" src="./preview/view_model_flowchart.png">
+    </td>
+  </tr>
+</table>
 
 ## Installation Guide
 
@@ -67,26 +75,6 @@ This command will install the app on your connected Android device or emulator a
 
 Congratulations 🎉, you've successfully installed and launched the app and run unit tests!
 
-## Preview
-| Login Signup Screen | Add Details Screen |
-| --- | --- |
-| ![Login Signup Screen](./preview/login_signup_screen.png) | ![Add Details Screen](./preview/add_details_light.png) |
-
-| Home Notification Screen | Job Screen |
-| --- | --- |
-| ![Home Notification Screen](./preview/home_and_notification_light.png) | ![Job Screen](./preview/job_list_light.png) |
-
-| Mock Test Screen | Mock Test Question Screen |
-| --- | --- |
-| ![Mock Test Screen](./preview/mock_test_list_light.png) | ![Mock Test Question Screen](./preview/mock_test_question_report_light.png) |
-
-| Profile Edit Screen | Logout Delete Screen |
-| --- | --- |
-| ![Profile Edit Screen](./preview/profile_edit_light.png) | ![Logout Delete Screen](./preview/logout_delete_account_light.png) |
-
-# Contributing to [JobSpot](https://github.com/Krish-Parekh/JobSpot)
-
-Thank you for your interest in contributing to [JobSpot](https://github.com/Krish-Parekh/JobSpot)! We welcome contributions from anyone, regardless of their level of experience or expertise. This document outlines how to get started with contributing to the project.
 
 ## Prerequisites
 
