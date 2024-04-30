@@ -24,14 +24,6 @@
 - [PowerSpinner](https://github.com/skydoves/PowerSpinner) - A lightweight dropdown popup spinner, fully customizable with an arrow and animations for Android.
 - [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar) - A lightweight Android material bottom navigation bar library.
 
-## Flow
-<table border="1">
-  <tr>
-    <td align="center"> 
-      <img width="50%" src="./preview/view_model_flowchart.png">
-    </td>
-  </tr>
-</table>
 
 ## Installation Guide
 
